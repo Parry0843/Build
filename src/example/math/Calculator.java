@@ -21,4 +21,8 @@ public class Calculator {
   return a / b;
  }
   
+  public String sayHello(){
+  return "Hello World";
+  }
+  
 }
